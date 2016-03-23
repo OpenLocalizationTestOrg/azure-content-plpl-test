@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\app-service-logic\app-service-logic-author-definitions.md](https://github.com/OpenLocalizationTest/azuretest/blob/575b87a7280969d1707abf5b46ec4ed3b8fd9fa5/articles/app-service-logic/app-service-logic-author-definitions.md) | HandedOffSuccess | [Details](#e749b7701463a14e00e68056df1c35422c68ad2e3986)
+ [testtttt.md](https://github.com/OpenLocalizationTest/azuretest/blob/dbe97407f87152f701e61b027c55b8e1432b378b/testtttt.md) | HandedOffSuccess | [Details](#d0d8c1b500d7bf74f252fbd495f18b1e5790c79418237)
 
 ## Item Details
-##### <a name='e749b7701463a14e00e68056df1c35422c68ad2e3986'></a> Source: [articles\app-service-logic\app-service-logic-author-definitions.md](https://github.com/OpenLocalizationTest/azuretest/blob/575b87a7280969d1707abf5b46ec4ed3b8fd9fa5/articles/app-service-logic/app-service-logic-author-definitions.md)
+##### <a name='d0d8c1b500d7bf74f252fbd495f18b1e5790c79418237'></a> Source: [testtttt.md](https://github.com/OpenLocalizationTest/azuretest/blob/dbe97407f87152f701e61b027c55b8e1432b378b/testtttt.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [app-service-logic-author-definitions.8658feff9653361300aa4f92938dca8fca2038fd.pl-pl.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/330e3267b6233ec74d50ca0428d8dd0e16619935/ol-handoff/OpenLocalizationTestOrg/azure-content-plpl-test/master/ht/app-service-logic-author-definitions.8658feff9653361300aa4f92938dca8fca2038fd.pl-pl.xlf)
-* Handoff Datetime: 2016-03-23 08:34:21
+* Handoff File: [testtttt.822b7ba4410ad6e0ddb8c42bb0c71bba3ea57371.pl-pl.xlf](https://github.com/OpenLocalizationTest/azuretest.handoff/blob/4ef38061a81b2b05213939ac591b1100e31f4cda/ol-handoff/OpenLocalizationTestOrg/azure-content-plpl-test/master/ht/testtttt.822b7ba4410ad6e0ddb8c42bb0c71bba3ea57371.pl-pl.xlf)
+* Handoff Datetime: 2016-03-23 08:54:52
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
